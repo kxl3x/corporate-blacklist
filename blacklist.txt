@@ -1,0 +1,6 @@
+# corporate-blacklist :
+# uBlacklist subscription.
+# Format: *://*.example.com/*
+
+
+
