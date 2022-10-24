@@ -2,5 +2,63 @@
 # uBlacklist subscription.
 # Format: *://*.example.com/*
 
+# BIG CORPS
+*://*.washingtonpost.com/*
+*://*.sciencedirect.com/*
+*://*.sciencedaily.com/*
+*://*.newscientist.com/*
+*://*.theguardian.com/*
+*://*.vocabulary.com/*
+*://*.folkstalk.com/*
+*://play.google.com/*
+*://*.thoughtco.com/*
+*://*.microsoft.com/*
+*://*.thestreet.com/*
+*://*.usatoday.com/*
+*://*.history.com/*
+*://*.science.org/*
+*://*.wikihow.com/*
+*://*.nbcnews.com/*
+*://*.foxnews.com/*
+*://*.thehill.com/*
+*://*.latimes.com/*
+*://*.nytimes.com/*
+*://*.hubspot.com/*
+*://*.leaner.com/*
+*://*.nature.com/*
+*://*.reddit.com/*
+*://*.indeed.com/*
+*://*.medium.com/*
+*://*.amazon.com/*
+*://*.forbes.com/*
+*://*.mashed.com/*
+*://*.quora.com/*
+*://*.yahoo.com/*
+*://*.chegg.com/*
+*://*.msnbc.com/*
+*://*.apple.com/*
+*://*.wired.com/*
+*://*.today.com/*
+*://*.study.com/*
+*://*.learn.co/*
+*://*.nasa.gov/*
+*://*.cnbc.com/*
+*://*.bbc.com/*
+*://*.cnn.com/*
+*://*.ted.com/*
+
+# CS-SECTION
+*://*.tutorialspoint.com/*
+*://*.geeksforgeeks.com/*
+*://*.careerkarma.com/*
+*://*.codecademy.com/*
+*://*.log2base2.com/*
+*://*.cyberciti.biz/*
+*://*.programiz.com/*
+*://*.coursera.com/*
+*://*.linkedin.com/*
+*://*.edureka.co/*
+*://*.udemy.com/*
+
 
 
